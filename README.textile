@@ -1,6 +1,6 @@
 h1. About
 
-TestFlight is a tiny single-file demo application showcasing all the features and usage of the "Pilot":http://github.com/countvajhula/pilot graph operator. Take a look at the code directly (TestFlight.groovy) to understand the basic usage of Pilot.
+TestFlight is a tiny single-file demo application showcasing all the features and usage of the "Pilot":http://github.com/countvajhula/pilot graph operator. Take a look at the code directly ("TestFlight.groovy":https://github.com/countvajhula/testflight/blob/master/src/main/groovy/com/countvajhula/testflight/TestFlight.groovy) to understand the basic usage of Pilot.
 
 h2. To run the app via Maven (with dependencies managed):
 
