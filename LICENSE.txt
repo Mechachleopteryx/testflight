@@ -1,0 +1,1 @@
+TestFlight is released as open source under the BSD licence.

@@ -1,0 +1,17 @@
+h1. About
+
+TestFlight is a tiny single-file demo application showcasing all the features and usage of the "Pilot":http://github.com/countvajhula/pilot graph operator. Take a look at the code directly (TestFlight.groovy) to understand the basic usage of Pilot.
+
+h2. To run the app via Maven (with dependencies managed):
+
+$ mvn clean install
+$ mvn exec:java
+
+You can make changes to the code and run it again with the above commands.
+
+h2. To run without Maven:
+
+You'd have to make sure all the dependency JARs (Pilot, Blueprints, Gremlin, your chosen graph database) are present in your classpath. Then simply run as:
+
+$ chmod +x TestFlight.groovy
+$ ./TestFlight.groovy
