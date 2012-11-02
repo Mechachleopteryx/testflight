@@ -22,7 +22,7 @@ public class TestFlight {
 
 	public static void main(String[] args) {
 
-		println "Welcome to TestFlight -- a demo app for the Pilot graph operator.\nPerforming graph manipulations (2000 iterations)..."
+		println "\n\nWelcome to TestFlight -- a demo app for the Pilot graph operator!\nPerforming graph manipulations (2000 iterations)..."
 
 		// initialize the graph
 		GraphInterface g = GraphManagerProxy.initializeGraph(graphUrl, graphProvider, false)
