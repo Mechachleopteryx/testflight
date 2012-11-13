@@ -6,7 +6,7 @@
 	<groupId>com.countvajhula</groupId>
 	<artifactId>testflight</artifactId>
 	<name>TestFlight</name>
-	<version>1.0-SNAPSHOT</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 	<url>https://github.com/countvajhula/testflight</url>
 	<description>A tiny but comprehensive demo app for the Pilot graph operator</description>
@@ -49,7 +49,7 @@
 		<dependency>
 			<groupId>com.countvajhula</groupId>
 			<artifactId>pilot</artifactId>
-			<version>1.0-SNAPSHOT</version>
+			<version>1.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.tinkerpop.blueprints</groupId>
